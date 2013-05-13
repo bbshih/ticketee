@@ -2,6 +2,7 @@ require 'spec_helper'
 
 feature 'Creating Projects' do
 	before do
+		binding.pry
 		visit '/'
 		click_link 'New Project'
 	end
@@ -23,4 +24,5 @@ feature 'Creating Projects' do
 		page.should have_content("Project has not been created.")
 		page.should have_content("Name can't be blank")
 	end
+
 end

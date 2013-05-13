@@ -2,6 +2,11 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
 gem 'dynamic_form', '1.1.4'
+gem 'pry-rails'
+gem 'pry-doc'
+gem 'pry-debugger'
+gem 'launchy'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 

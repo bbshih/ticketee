@@ -23,9 +23,11 @@ class ProjectsController < ApplicationController
 	def show
 	end
 
+	# GET
 	def edit
 	end
 
+	# PUT
 	def update
 		if @project.update_attributes(params[:project])
 			flash[:notice] = "Project has been updated."
