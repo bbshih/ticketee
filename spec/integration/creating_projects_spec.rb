@@ -2,7 +2,6 @@ require 'spec_helper'
 
 feature 'Creating Projects' do
 	before do
-		binding.pry
 		visit '/'
 		click_link 'New Project'
 	end
