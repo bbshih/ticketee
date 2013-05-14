@@ -51,3 +51,5 @@ group :test do
   gem 'simplecov', :require => false, :group => :test
   gem 'launchy'
 end
+
+gem 'devise', '2.1.0.rc'
