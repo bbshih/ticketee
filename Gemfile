@@ -53,3 +53,4 @@ group :test do
 end
 
 gem 'devise', '2.1.0.rc'
+gem 'email_spec', '1.2.1'
