@@ -421,6 +421,8 @@
         1,
         null,
         1,
+        null,
+        1,
         1,
         null,
         null,
@@ -500,6 +502,16 @@
       "/Users/Billy/Dev/ticketee/app/controllers/application_controller.rb": [
         1,
         1,
+        null,
+        1,
+        null,
+        1,
+        15,
+        15,
+        6,
+        6,
+        null,
+        null,
         null
       ],
       "/Users/Billy/Dev/ticketee/app/helpers/application_helper.rb": [
@@ -517,12 +529,27 @@
         null,
         null
       ],
+      "/Users/Billy/Dev/ticketee/app/helpers/admin/users_helper.rb": [
+        1,
+        null
+      ],
       "/Users/Billy/Dev/ticketee/app/helpers/projects_helper.rb": [
         1,
         null
       ],
       "/Users/Billy/Dev/ticketee/app/helpers/tickets_helper.rb": [
         1,
+        null
+      ],
+      "/Users/Billy/Dev/ticketee/app/controllers/admin/base_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/Billy/Dev/ticketee/app/controllers/admin/users_controller.rb": [
+        1,
+        1,
+        null,
         null
       ],
       "/Users/Billy/Dev/ticketee/app/controllers/projects_controller.rb": [
@@ -574,15 +601,6 @@
         null,
         null,
         1,
-        null,
-        1,
-        14,
-        14,
-        5,
-        5,
-        null,
-        null,
-        null,
         1,
         26,
         null,
@@ -720,7 +738,7 @@
         null,
         1,
         1,
-        11,
+        12,
         null,
         null,
         null,
@@ -730,6 +748,40 @@
         8,
         null,
         null,
+        null,
+        null
+      ],
+      "/Users/Billy/Dev/ticketee/spec/controllers/projects_controller_spec.rb": [
+        1,
+        null,
+        1,
+        6,
+        6,
+        null,
+        1,
+        1,
+        5,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        5,
+        5,
+        5,
+        5,
+        5,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
         null,
         null
       ],
@@ -1072,6 +1124,6 @@
         null
       ]
     },
-    "timestamp": 1368673378
+    "timestamp": 1368674133
   }
 }
