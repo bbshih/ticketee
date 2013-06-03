@@ -37,6 +37,10 @@
         null,
         null
       ],
+      "/Users/Billy/Dev/ticketee/app/helpers/files_helper.rb": [
+        0,
+        null
+      ],
       "/Users/Billy/Dev/ticketee/app/helpers/projects_helper.rb": [
         0,
         null
@@ -132,6 +136,6 @@
         null
       ]
     },
-    "timestamp": 1370296962
+    "timestamp": 1370300614
   }
 }
