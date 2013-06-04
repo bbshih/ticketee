@@ -9,8 +9,7 @@ gem "paperclip", "2.7.0"
 # Bundle edge Rails instead:
 # gem "rails", :git => "git://github.com/rails/rails.git"
 
-gem "sqlite3"
-
+gem "pg", group: :production
 
 
 # Gems used only for assets and not required
@@ -43,6 +42,7 @@ gem "jquery-rails"
 # gem "debugger"
 
 group :test, :development do
+  gem "sqlite3"
   gem "rspec-rails", "~> 2.11"
   gem "pry-rails"
   gem "pry-doc"
